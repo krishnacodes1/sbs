@@ -24,7 +24,7 @@ const Principal = () => {
             essential to survive children need excellent soft skills,
             communication skills, understanding of global culture and its
             appreciation, a good character , an attitude to be life long learner
-            and contribute to the society at large. At PIS we believe that the
+            and contribute to the society at large. At SBS public school we believe that the
             objective education is just not to inform, but also to empower and
             transform. With this philosophy at its core, we have nurt an ideal
             schooling in Jaunpur with international standard and environment
@@ -40,10 +40,10 @@ const Principal = () => {
           </p> */}
         </div>
 
-        <div class="col-lg-5 bg-secondary-subtle rounded-circle">
+        <div class="col-lg-5 mt-5 bg-secondary-subtle rounded-circle">
           <img
             className=" rounded-circle p-2"
-            src="http://pisjaunpur.com/wp-content/uploads/2020/02/imageedit_24_2789568418.png"
+            src="/chairman.jpeg"
             width="100%"
           />
         </div>
@@ -136,13 +136,13 @@ const Principal = () => {
             width="100%"
           />
           <p>
-            <h3>MR. HEBRON LARRUNA PETERS</h3>
+            <h3>Mr. Singh</h3>
             PRINCIPAL, <br></br>SuryaBali Singh Public School
           </p>
         </div>
         <div class="col-lg-7">
-          <h2 class="mb-4 style-LnNNp" id="style-LnNNp">
-            PRINCIPAL, <br></br>SuryaBali Singh Public School
+          <h2 class=" style-LnNNp" id="style-LnNNp">
+            PRINCIPAL,
           </h2>
           <p class="mb-4 ">
             Education is a shared commitment between dedicated teachers,
